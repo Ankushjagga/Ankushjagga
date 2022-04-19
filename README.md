@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar Jagga</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">I Fell In Love With Programming And I Have At Least Learnt Something, I Think…</h3>
 
 - 🌱 I’m currently learning **React js**
 
