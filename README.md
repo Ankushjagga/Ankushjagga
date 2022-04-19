@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar Jagga</h1>
 <h3 align="center">I Fell In Love With Programming And I Have At Least Learnt Something, I Think…</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🔭 I’m currently doing my **B.tech CSE**
+- 🌱 Trying to improve my skills everyday
 
 - 📫 How to reach me **ankushjagga97@gmail.com**
 
@@ -15,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushjagga&show_icons=true&locale=en&layout=compact" alt="ankushjagga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushjagga&" alt="ankushjagga" /></p>
