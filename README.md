@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar Jagga</h1>
 <h3 align="center">I Fell In Love With Programming And I Have At Least Learnt Something, I Think…</h3>
 
-- 🔭 Associate Software Developer Intern @ **Master's Union**
+- 🔭 Associate Software Developer  @ **Master's Union**
 - 🌱 Trying to improve my skills everyday
 
 - 📫 How to reach me **ankushjagga97@gmail.com**
